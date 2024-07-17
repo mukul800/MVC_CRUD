@@ -1,0 +1,39 @@
+D:\Practice\MVC Crud\MVC Crud\bin\Debug\net8.0\appsettings.Development.json
+D:\Practice\MVC Crud\MVC Crud\bin\Debug\net8.0\appsettings.json
+D:\Practice\MVC Crud\MVC Crud\bin\Debug\net8.0\MVC Crud.staticwebassets.runtime.json
+D:\Practice\MVC Crud\MVC Crud\bin\Debug\net8.0\MVC Crud.exe
+D:\Practice\MVC Crud\MVC Crud\bin\Debug\net8.0\MVC Crud.deps.json
+D:\Practice\MVC Crud\MVC Crud\bin\Debug\net8.0\MVC Crud.runtimeconfig.json
+D:\Practice\MVC Crud\MVC Crud\bin\Debug\net8.0\MVC Crud.dll
+D:\Practice\MVC Crud\MVC Crud\bin\Debug\net8.0\MVC Crud.pdb
+D:\Practice\MVC Crud\MVC Crud\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\Practice\MVC Crud\MVC Crud\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\Practice\MVC Crud\MVC Crud\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\Practice\MVC Crud\MVC Crud\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\Practice\MVC Crud\MVC Crud\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Practice\MVC Crud\MVC Crud\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Practice\MVC Crud\MVC Crud\obj\Debug\net8.0\MVC Crud.csproj.AssemblyReference.cache
+D:\Practice\MVC Crud\MVC Crud\obj\Debug\net8.0\MVC Crud.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\MVC Crud\MVC Crud\obj\Debug\net8.0\MVC Crud.AssemblyInfoInputs.cache
+D:\Practice\MVC Crud\MVC Crud\obj\Debug\net8.0\MVC Crud.AssemblyInfo.cs
+D:\Practice\MVC Crud\MVC Crud\obj\Debug\net8.0\MVC Crud.csproj.CoreCompileInputs.cache
+D:\Practice\MVC Crud\MVC Crud\obj\Debug\net8.0\MVC Crud.MvcApplicationPartsAssemblyInfo.cache
+D:\Practice\MVC Crud\MVC Crud\obj\Debug\net8.0\MVC Crud.RazorAssemblyInfo.cache
+D:\Practice\MVC Crud\MVC Crud\obj\Debug\net8.0\MVC Crud.RazorAssemblyInfo.cs
+D:\Practice\MVC Crud\MVC Crud\obj\Debug\net8.0\staticwebassets.build.json
+D:\Practice\MVC Crud\MVC Crud\obj\Debug\net8.0\staticwebassets.development.json
+D:\Practice\MVC Crud\MVC Crud\obj\Debug\net8.0\staticwebassets\msbuild.MVC Crud.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Practice\MVC Crud\MVC Crud\obj\Debug\net8.0\staticwebassets\msbuild.build.MVC Crud.props
+D:\Practice\MVC Crud\MVC Crud\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MVC Crud.props
+D:\Practice\MVC Crud\MVC Crud\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MVC Crud.props
+D:\Practice\MVC Crud\MVC Crud\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Practice\MVC Crud\MVC Crud\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Practice\MVC Crud\MVC Crud\obj\Debug\net8.0\scopedcss\bundle\MVC Crud.styles.css
+D:\Practice\MVC Crud\MVC Crud\obj\Debug\net8.0\scopedcss\projectbundle\MVC Crud.bundle.scp.css
+D:\Practice\MVC Crud\MVC Crud\obj\Debug\net8.0\MVC Crud.csproj.Up2Date
+D:\Practice\MVC Crud\MVC Crud\obj\Debug\net8.0\MVC Crud.dll
+D:\Practice\MVC Crud\MVC Crud\obj\Debug\net8.0\refint\MVC Crud.dll
+D:\Practice\MVC Crud\MVC Crud\obj\Debug\net8.0\MVC Crud.pdb
+D:\Practice\MVC Crud\MVC Crud\obj\Debug\net8.0\MVC Crud.genruntimeconfig.cache
+D:\Practice\MVC Crud\MVC Crud\obj\Debug\net8.0\ref\MVC Crud.dll
+D:\Practice\MVC Crud\MVC Crud\bin\Debug\net8.0\Newtonsoft.Json.dll

@@ -1,0 +1,44 @@
+﻿    @using static MVC_Crud.BLL.parameters
+    @model RegisterParams;
+
+    <h2>Register User</h2>
+
+    <form asp-action="Register" method="post">
+
+        <div class="form-group">
+            <label asp-for="firstname" class="control-label"></label>
+            <input asp-for="firstname" asp-name="firstname" class="form-control" />
+            <span asp-validation-for="firstname" class="text-danger"></span>
+        </div>
+        <br />
+        <div class="form-group">
+            <label asp-for="lastname" class="control-label"></label>
+            <input asp-for="lastname" asp-name="lastname" class="form-control" />
+            <span asp-validation-for="lastname" class="text-danger"></span>
+        </div>
+        <br />
+        <div class="form-group">
+            <label asp-for="username" class="control-label"></label>
+            <input id="username" asp-for="username" asp-name="username" class="form-control" />
+            <span id="usernameValidate" asp-validation-for="username" class="text-danger"></span>
+        </div>
+        <br />
+        <div class="form-group">
+            <label asp-for="password" class="control-label"></label>
+            <input type="password" asp-for="password" asp-name="password" class="form-control" />
+            <span asp-validation-for="password" class="text-danger"></span>
+        </div>
+        <br />
+        <div class="form-group">
+            <label asp-for="age" class="control-label"></label>
+            <input asp-for="age" asp-name="age" class="form-control" />
+            <span asp-validation-for="age" class="text-danger"></span>
+        </div>
+        <br />
+        <div class="form-group">
+            <input type="submit" value="Save" class="btn btn-primary" />
+        </div>
+    </form>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+<script src="~/js/common.js"></script>
+
